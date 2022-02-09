@@ -5,4 +5,9 @@ body {
 
 h1	{
 	text-align: center;
+	color: lightgreen;
+}
+
+img {
+	width: 50%;
 }
